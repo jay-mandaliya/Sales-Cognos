@@ -1,4 +1,4 @@
-# SalesCognos
+# Sales-Cognos
 
 ### Project Definition
 -----
